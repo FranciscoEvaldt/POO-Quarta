@@ -1,0 +1,5 @@
+C:\Users\evald\OneDrive\Documentos\ADS\3 semestre\POO\Aula_06_3\obj\Debug\net7.0\Aula_06_3.csproj.AssemblyReference.cache
+C:\Users\evald\OneDrive\Documentos\ADS\3 semestre\POO\Aula_06_3\obj\Debug\net7.0\Aula_06_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\evald\OneDrive\Documentos\ADS\3 semestre\POO\Aula_06_3\obj\Debug\net7.0\Aula_06_3.AssemblyInfoInputs.cache
+C:\Users\evald\OneDrive\Documentos\ADS\3 semestre\POO\Aula_06_3\obj\Debug\net7.0\Aula_06_3.AssemblyInfo.cs
+C:\Users\evald\OneDrive\Documentos\ADS\3 semestre\POO\Aula_06_3\obj\Debug\net7.0\Aula_06_3.csproj.CoreCompileInputs.cache

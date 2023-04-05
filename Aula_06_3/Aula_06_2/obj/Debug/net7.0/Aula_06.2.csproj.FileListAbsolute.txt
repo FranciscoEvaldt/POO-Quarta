@@ -1,0 +1,15 @@
+C:\Users\evald\OneDrive\Documentos\ADS\3 semestre\POO\Aula_06.2\obj\Debug\net7.0\Aula_06.2.csproj.AssemblyReference.cache
+C:\Users\evald\OneDrive\Documentos\ADS\3 semestre\POO\Aula_06.2\obj\Debug\net7.0\Aula_06.2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\evald\OneDrive\Documentos\ADS\3 semestre\POO\Aula_06.2\obj\Debug\net7.0\Aula_06.2.AssemblyInfoInputs.cache
+C:\Users\evald\OneDrive\Documentos\ADS\3 semestre\POO\Aula_06.2\obj\Debug\net7.0\Aula_06.2.AssemblyInfo.cs
+C:\Users\evald\OneDrive\Documentos\ADS\3 semestre\POO\Aula_06.2\obj\Debug\net7.0\Aula_06.2.csproj.CoreCompileInputs.cache
+C:\Users\evald\OneDrive\Documentos\ADS\3 semestre\POO\Aula_06.2\bin\Debug\net7.0\Aula_06.2.exe
+C:\Users\evald\OneDrive\Documentos\ADS\3 semestre\POO\Aula_06.2\bin\Debug\net7.0\Aula_06.2.deps.json
+C:\Users\evald\OneDrive\Documentos\ADS\3 semestre\POO\Aula_06.2\bin\Debug\net7.0\Aula_06.2.runtimeconfig.json
+C:\Users\evald\OneDrive\Documentos\ADS\3 semestre\POO\Aula_06.2\bin\Debug\net7.0\Aula_06.2.dll
+C:\Users\evald\OneDrive\Documentos\ADS\3 semestre\POO\Aula_06.2\bin\Debug\net7.0\Aula_06.2.pdb
+C:\Users\evald\OneDrive\Documentos\ADS\3 semestre\POO\Aula_06.2\obj\Debug\net7.0\Aula_06.2.dll
+C:\Users\evald\OneDrive\Documentos\ADS\3 semestre\POO\Aula_06.2\obj\Debug\net7.0\refint\Aula_06.2.dll
+C:\Users\evald\OneDrive\Documentos\ADS\3 semestre\POO\Aula_06.2\obj\Debug\net7.0\Aula_06.2.pdb
+C:\Users\evald\OneDrive\Documentos\ADS\3 semestre\POO\Aula_06.2\obj\Debug\net7.0\Aula_06.2.genruntimeconfig.cache
+C:\Users\evald\OneDrive\Documentos\ADS\3 semestre\POO\Aula_06.2\obj\Debug\net7.0\ref\Aula_06.2.dll
