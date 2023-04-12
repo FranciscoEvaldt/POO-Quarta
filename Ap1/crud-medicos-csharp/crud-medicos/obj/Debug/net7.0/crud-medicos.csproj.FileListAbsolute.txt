@@ -1,0 +1,30 @@
+/media/endriw/729C42D89C42970F/coisas/Endriw/Faculdade/Ulbra/ads/2023_1/POO/aula07_05-04-2023/crud-medicos-csharp/crud-medicos/bin/Debug/net7.0/crud-medicos
+/media/endriw/729C42D89C42970F/coisas/Endriw/Faculdade/Ulbra/ads/2023_1/POO/aula07_05-04-2023/crud-medicos-csharp/crud-medicos/bin/Debug/net7.0/crud-medicos.deps.json
+/media/endriw/729C42D89C42970F/coisas/Endriw/Faculdade/Ulbra/ads/2023_1/POO/aula07_05-04-2023/crud-medicos-csharp/crud-medicos/bin/Debug/net7.0/crud-medicos.runtimeconfig.json
+/media/endriw/729C42D89C42970F/coisas/Endriw/Faculdade/Ulbra/ads/2023_1/POO/aula07_05-04-2023/crud-medicos-csharp/crud-medicos/bin/Debug/net7.0/crud-medicos.dll
+/media/endriw/729C42D89C42970F/coisas/Endriw/Faculdade/Ulbra/ads/2023_1/POO/aula07_05-04-2023/crud-medicos-csharp/crud-medicos/bin/Debug/net7.0/crud-medicos.pdb
+/media/endriw/729C42D89C42970F/coisas/Endriw/Faculdade/Ulbra/ads/2023_1/POO/aula07_05-04-2023/crud-medicos-csharp/crud-medicos/obj/Debug/net7.0/crud-medicos.csproj.AssemblyReference.cache
+/media/endriw/729C42D89C42970F/coisas/Endriw/Faculdade/Ulbra/ads/2023_1/POO/aula07_05-04-2023/crud-medicos-csharp/crud-medicos/obj/Debug/net7.0/crud-medicos.GeneratedMSBuildEditorConfig.editorconfig
+/media/endriw/729C42D89C42970F/coisas/Endriw/Faculdade/Ulbra/ads/2023_1/POO/aula07_05-04-2023/crud-medicos-csharp/crud-medicos/obj/Debug/net7.0/crud-medicos.AssemblyInfoInputs.cache
+/media/endriw/729C42D89C42970F/coisas/Endriw/Faculdade/Ulbra/ads/2023_1/POO/aula07_05-04-2023/crud-medicos-csharp/crud-medicos/obj/Debug/net7.0/crud-medicos.AssemblyInfo.cs
+/media/endriw/729C42D89C42970F/coisas/Endriw/Faculdade/Ulbra/ads/2023_1/POO/aula07_05-04-2023/crud-medicos-csharp/crud-medicos/obj/Debug/net7.0/crud-medicos.csproj.CoreCompileInputs.cache
+/media/endriw/729C42D89C42970F/coisas/Endriw/Faculdade/Ulbra/ads/2023_1/POO/aula07_05-04-2023/crud-medicos-csharp/crud-medicos/obj/Debug/net7.0/crud-medicos.dll
+/media/endriw/729C42D89C42970F/coisas/Endriw/Faculdade/Ulbra/ads/2023_1/POO/aula07_05-04-2023/crud-medicos-csharp/crud-medicos/obj/Debug/net7.0/refint/crud-medicos.dll
+/media/endriw/729C42D89C42970F/coisas/Endriw/Faculdade/Ulbra/ads/2023_1/POO/aula07_05-04-2023/crud-medicos-csharp/crud-medicos/obj/Debug/net7.0/crud-medicos.pdb
+/media/endriw/729C42D89C42970F/coisas/Endriw/Faculdade/Ulbra/ads/2023_1/POO/aula07_05-04-2023/crud-medicos-csharp/crud-medicos/obj/Debug/net7.0/crud-medicos.genruntimeconfig.cache
+/media/endriw/729C42D89C42970F/coisas/Endriw/Faculdade/Ulbra/ads/2023_1/POO/aula07_05-04-2023/crud-medicos-csharp/crud-medicos/obj/Debug/net7.0/ref/crud-medicos.dll
+C:\Users\evald\OneDrive\Documentos\ADS\3 semestre\POO\Ap1\crud-medicos-csharp\crud-medicos\bin\Debug\net7.0\crud-medicos.exe
+C:\Users\evald\OneDrive\Documentos\ADS\3 semestre\POO\Ap1\crud-medicos-csharp\crud-medicos\bin\Debug\net7.0\crud-medicos.deps.json
+C:\Users\evald\OneDrive\Documentos\ADS\3 semestre\POO\Ap1\crud-medicos-csharp\crud-medicos\bin\Debug\net7.0\crud-medicos.runtimeconfig.json
+C:\Users\evald\OneDrive\Documentos\ADS\3 semestre\POO\Ap1\crud-medicos-csharp\crud-medicos\bin\Debug\net7.0\crud-medicos.dll
+C:\Users\evald\OneDrive\Documentos\ADS\3 semestre\POO\Ap1\crud-medicos-csharp\crud-medicos\bin\Debug\net7.0\crud-medicos.pdb
+C:\Users\evald\OneDrive\Documentos\ADS\3 semestre\POO\Ap1\crud-medicos-csharp\crud-medicos\obj\Debug\net7.0\crud-medicos.csproj.AssemblyReference.cache
+C:\Users\evald\OneDrive\Documentos\ADS\3 semestre\POO\Ap1\crud-medicos-csharp\crud-medicos\obj\Debug\net7.0\crud-medicos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\evald\OneDrive\Documentos\ADS\3 semestre\POO\Ap1\crud-medicos-csharp\crud-medicos\obj\Debug\net7.0\crud-medicos.AssemblyInfoInputs.cache
+C:\Users\evald\OneDrive\Documentos\ADS\3 semestre\POO\Ap1\crud-medicos-csharp\crud-medicos\obj\Debug\net7.0\crud-medicos.AssemblyInfo.cs
+C:\Users\evald\OneDrive\Documentos\ADS\3 semestre\POO\Ap1\crud-medicos-csharp\crud-medicos\obj\Debug\net7.0\crud-medicos.csproj.CoreCompileInputs.cache
+C:\Users\evald\OneDrive\Documentos\ADS\3 semestre\POO\Ap1\crud-medicos-csharp\crud-medicos\obj\Debug\net7.0\crud-medicos.dll
+C:\Users\evald\OneDrive\Documentos\ADS\3 semestre\POO\Ap1\crud-medicos-csharp\crud-medicos\obj\Debug\net7.0\refint\crud-medicos.dll
+C:\Users\evald\OneDrive\Documentos\ADS\3 semestre\POO\Ap1\crud-medicos-csharp\crud-medicos\obj\Debug\net7.0\crud-medicos.pdb
+C:\Users\evald\OneDrive\Documentos\ADS\3 semestre\POO\Ap1\crud-medicos-csharp\crud-medicos\obj\Debug\net7.0\crud-medicos.genruntimeconfig.cache
+C:\Users\evald\OneDrive\Documentos\ADS\3 semestre\POO\Ap1\crud-medicos-csharp\crud-medicos\obj\Debug\net7.0\ref\crud-medicos.dll
